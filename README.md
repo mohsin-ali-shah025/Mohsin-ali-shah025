@@ -15,7 +15,7 @@
 
 ### 🧭 Who I Am
 
-​```ts
+```ts
 const mohsin = {
   title: "Computer Engineering Student | Indie SaaS Builder",
   stack: ["Python", "Dart", "FastAPI", "Flutter Web", "PostgreSQL (Supabase)", "Gemini AI"],
@@ -23,7 +23,7 @@ const mohsin = {
   status: "Building solo AI SaaS products from idea to deployed product",
   openTo: ["Remote opportunities", "Collaboration on AI products"],
 };
-​```
+```
 
 ---
 
@@ -57,6 +57,20 @@ Generates task plans and reports for small business owners from a plain descript
 | Deploy | Vercel + Netlify |
 
 🔗 [Live](https://splendid-pasca-2d0216.netlify.app) · 💻 [Code](https://github.com/mohsin-ali-shah025/copilot-workflow-app)
+
+#### 🤖 AI Lead Qualifier (n8n)
+Scores incoming property leads with AI, replies within a minute, and alerts the owner. Hot / Warm / Cold routing, Airtable tracking, automatic follow-ups.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsin-ali-shah025&repo=ai-lead-qualifier&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+
+| Layer | Technology |
+|---|---|
+| Automation | n8n |
+| AI | Gemini |
+| Database | Airtable |
+| Email | Gmail |
+
+💻 [Code](https://github.com/mohsin-ali-shah025/ai-lead-qualifier)
 
 ---
 
@@ -104,7 +118,7 @@ Generates task plans and reports for small business owners from a plain descript
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-financeai.support%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=white)](mailto:financeai.support@gmail.com)
+[![Email](https://img.shields.io/badge/Email-syedmohsinalishah025.ai%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=white)](mailto:syedmohsinalishah025.ai@gmail.com)
 
 </div>
 
